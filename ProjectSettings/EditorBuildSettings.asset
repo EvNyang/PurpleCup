@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Level2.unity
     guid: d0f1403920648594b866544daef165af
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
+    path: Assets/Scenes/MinJi_Level3.unity
     guid: 899e2f9ff7821344489cd9cb15bf1f89
   - enabled: 1
     path: Assets/Scenes/Level4.unity
