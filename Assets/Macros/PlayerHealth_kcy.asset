@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1083378141, guid: dcd2196c4e9166f499793f2007fcda35, type: 3}
-  m_Name: PlayerHealth 1
+  m_Name: PlayerHealth_kcy
   m_EditorClassIdentifier: 
   _data:
     _json: '{"graph":{"title":null,"summary":null,"pan":{"x":-40.0028,"y":184.093},"zoom":1.0,"elements":[{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Vulnerable","summary":"\ub2e4\uce58\uac70\ub098
