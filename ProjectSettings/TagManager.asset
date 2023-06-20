@@ -9,6 +9,7 @@ TagManager:
   - Key
   - Enemy
   - Objective
+  - inhaleblock
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Inhale
   - 
   - Player
   - Platforms
@@ -25,7 +26,7 @@ TagManager:
   - PlayerInvincible
   - Projectiles
   - 
-  - 
+  - InhaleBlock
   - 
   - 
   - 
