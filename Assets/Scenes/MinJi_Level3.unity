@@ -1148,7 +1148,7 @@ PrefabInstance:
     - target: {fileID: 908850017139453966, guid: 97b6cbe1a410fb54cb1593b6d9a31892,
         type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"LifeTime","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Attack","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"LifeTime","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"Attack","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 1009785870135215403, guid: 97b6cbe1a410fb54cb1593b6d9a31892,
         type: 3}
