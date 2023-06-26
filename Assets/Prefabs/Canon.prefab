@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Attack","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"Speed","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"LifeTime","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"Fire_Pos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Fire_Pos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 559912707}
 --- !u!114 &-5690354209601827868
