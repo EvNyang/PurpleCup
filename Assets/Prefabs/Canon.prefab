@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 1802360705502187250}
   - component: {fileID: 341383815}
   - component: {fileID: -5690354209601827868}
+  - component: {fileID: 2985009659913851389}
   m_Layer: 11
   m_Name: Canon
   m_TagString: Enemy
@@ -174,3 +175,24 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 8af20220754ccd54eb890b1cd73fd7fb, type: 2}
+--- !u!95 &2985009659913851389
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110112154505156049}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e3171a8d04e4f5140b76722fc05c27c8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

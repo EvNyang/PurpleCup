@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6520675330166547381}
   - component: {fileID: 6384607855528249913}
-  - component: {fileID: 6529140380927758861}
   - component: {fileID: 8409515223935762749}
   m_Layer: 9
   m_Name: lv3_PlatformLarge
@@ -84,28 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!68 &6529140380927758861
-EdgeCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6514462735452992179}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.81}
-  m_EdgeRadius: 0
-  m_Points:
-  - {x: -1.920157, y: 0.47033286}
-  - {x: 1.8932815, y: 0.47033286}
-  m_AdjacentStartPoint: {x: 0, y: 0}
-  m_AdjacentEndPoint: {x: 0, y: 0}
-  m_UseAdjacentStartPoint: 0
-  m_UseAdjacentEndPoint: 0
 --- !u!61 &8409515223935762749
 BoxCollider2D:
   m_ObjectHideFlags: 0
