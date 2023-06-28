@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4547664377926024419}
   - component: {fileID: 3327382453506555765}
   - component: {fileID: 7141674584151036158}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: kcy_Bread
   m_TagString: food
   m_Icon: {fileID: 0}
@@ -122,7 +122,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Point","value":{"$content":100,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &7141674584151036158
 MonoBehaviour:
