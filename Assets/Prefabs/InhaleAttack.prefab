@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5657469886510735123}
   - component: {fileID: 2598769653659132364}
   m_Layer: 13
-  m_Name: InhaeAttack
+  m_Name: InhaleAttack
   m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
